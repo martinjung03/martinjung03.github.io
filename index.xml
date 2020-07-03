@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MJ Lab</title>
-    <link>http://example.org/</link>
+    <link>http://martinjung03.github.io/</link>
     <description>Recent content on MJ Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Jul 2020 17:02:17 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://martinjung03.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>연탄재</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://martinjung03.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 02 Jul 2020 17:02:17 -0700</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://martinjung03.github.io/posts/my-first-post/</guid>
       <description>연탄재 함부로 차지 마라
 너는
 누구에게 한번이라도 뜨거운 사람 이었느냐</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Martin Jung</title>
-      <link>http://example.org/about/</link>
+      <link>http://martinjung03.github.io/about/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://martinjung03.github.io/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache License 2.0. Hugo supports TOML, YAML, and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  Blackfriday Chroma Smartcrop Cobra Viper  Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.</description>
